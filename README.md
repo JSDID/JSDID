@@ -1,4 +1,4 @@
-# <b>Habilidades</b>
+# <b>My skils</b>
 ![html5](./img/html.svg) &nbsp;
 ![css](./img/css.svg) &nbsp;
 ![Sass](./img/sass.svg) &nbsp;
