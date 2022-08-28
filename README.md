@@ -1,4 +1,4 @@
-# <h1>My skils</h1>
+# <h1>Skills</h1>
 ![Github](./img/github.svg) &nbsp;
 ![html5](./img/html.svg) &nbsp;
 ![css](./img/css.svg) &nbsp;
