@@ -1,7 +1,6 @@
-![Banner](./img/)
+![Banner](./img/banner-03.png);
 
-# <b>[Oleksandr Dolinskyi](https://fb.com/softwarealles)</b>
-
+<b>Front-end developer</b>
 
 # <b>Habilidades</b>
 ![html5](./img/html.svg) &nbsp;
