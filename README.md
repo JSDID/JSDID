@@ -1,7 +1,3 @@
-![Banner](./img/banner-03.png);
-
-<b>Front-end developer</b>
-
 # <b>Habilidades</b>
 ![html5](./img/html.svg) &nbsp;
 ![css](./img/css.svg) &nbsp;
