@@ -1,4 +1,3 @@
-# <h1>Front-end developer</h1>
 # <h1>My skils</h1>
 ![Github](./img/github.svg) &nbsp;
 ![html5](./img/html.svg) &nbsp;
