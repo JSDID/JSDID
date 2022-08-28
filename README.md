@@ -8,5 +8,5 @@
 ![NodeJS](./img/nodejs.svg) &nbsp;
 ![ReactJS](./img/reactjs.svg) &nbsp;
 ![Git](./img/git.svg) &nbsp;
-![Figma](./img/figma.svg) &nbsp;
+![Figma title="figma"](./img/figma.svg) &nbsp;
 
