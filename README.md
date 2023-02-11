@@ -5,12 +5,12 @@
 ![Sass](./img/sass.svg) &nbsp;
 ![Botstrap](./img/bootstrap.svg) &nbsp;
 ![JS](./img/js.svg) &nbsp;
+
 <!--
-![NodeJS](./img/nodejs.svg) &nbsp;
 ![ReactJS](./img/reactjs.svg) &nbsp;
+![NodeJS](./img/nodejs.svg) &nbsp;
 -->
-![Git](./img/git.svg) &nbsp;
-![Figma](./img/figma.svg) &nbsp;
+
 # <h1>Projects</h1>
 <ul>
   <li><a href="https://github.com/JSDID/TvChannelOnline">TvOnline</a></li>
