@@ -12,5 +12,7 @@
 ![Git](./img/git.svg) &nbsp;
 ![Figma](./img/figma.svg) &nbsp;
 # <h1>Projects</h1>
-<a href="https://github.com/JSDID/TvChannelOnline" target="_blank">>TvOnline</a>
+<ul>
+  <li><a href="https://github.com/JSDID/TvChannelOnline">TvOnline</a></li>
+</ul>
 
