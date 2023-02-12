@@ -16,6 +16,7 @@
 # <h2>Portfolio</h2>
 <p>Here are links to my work</p>
 <ul>
+  <li><a href="[https://github.com/JSDID/Fanatic](https://github.com/JSDID/Comand)" target="_blank">Fanatic</a> - template for the master</li>
   <li><a href="https://github.com/JSDID/Fanatic" target="_blank">Fanatic</a> - layout from Figma</li>
 </ul>
 
