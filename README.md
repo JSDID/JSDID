@@ -11,7 +11,7 @@
 
 -->
 
-# <h1>Websites</h1>
+# <h1>Web Sites</h1>
 <ul>
   <li><a href="https://github.com/JSDID/Fanatic">Fanatic</a></li>
 </ul>
