@@ -1,4 +1,4 @@
-# <h1>Practical Skills</h1>
+# <h1>Practical skills</h1>
 ![html5](./img/html.svg) &nbsp;
 ![css](./img/css.svg) &nbsp;
 ![Botstrap](./img/bootstrap.svg) &nbsp;
@@ -11,7 +11,7 @@
 
 -->
 
-# <h1>Web Sites</h1>
+# <h1>Web sites</h1>
 <ul>
   <li><a href="https://github.com/JSDID/Fanatic">Fanatic</a></li>
 </ul>
