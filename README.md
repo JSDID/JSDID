@@ -16,6 +16,6 @@
 # <h2>Portfolio</h2>
 <p>Here are links to my work</p>
 <ul>
-  <li><a href="https://github.com/JSDID/Fanatic">Fanatic</a></li>
+  <li><a href="https://github.com/JSDID/Fanatic">Fanatic</a> - layout from Figma</li>
 </ul>
 
