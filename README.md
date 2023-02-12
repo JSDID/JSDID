@@ -1,6 +1,8 @@
-Front-end development
+#2<h2>About</h2>
 
-# <h1>Practical skills</h1>
+I am developing websites. This page contains a portfolio of my work.
+
+#2<h2>Practical skills</h2>
 ![html5](./img/html.svg) &nbsp;
 ![css](./img/css.svg) &nbsp;
 ![Botstrap](./img/bootstrap.svg) &nbsp;
@@ -13,7 +15,7 @@ Front-end development
 
 -->
 
-# <h1>Web sites</h1>
+#<h2>Web sites</h2>
 <ul>
   <li><a href="https://github.com/JSDID/Fanatic">Fanatic</a></li>
 </ul>
