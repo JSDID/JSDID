@@ -1,7 +1,5 @@
 # <h2>About</h2>
-
-This page contains a portfolio of my work.
-
+This page contains a portfolio of my work
 # <h2>Practical skills</h2>
 ![html5](./img/html.svg) &nbsp;
 ![css](./img/css.svg) &nbsp;
@@ -14,7 +12,6 @@ This page contains a portfolio of my work.
 ![NodeJS](./img/nodejs.svg) &nbsp;
 
 -->
-
 # <h2>Web sites</h2>
 <ul>
   <li><a href="https://github.com/JSDID/Fanatic">Fanatic</a></li>
