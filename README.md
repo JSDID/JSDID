@@ -1,4 +1,4 @@
-# <h2>Practical skills</h2>
+# <h2>Skills</h2>
 
 <p>Here this technology stack</p>
 
