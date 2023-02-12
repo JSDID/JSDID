@@ -13,6 +13,6 @@
 
 # <h1>Projects</h1>
 <ul>
-  <li><a href="https://github.com/JSDID/Fanatic-website">Fanatic</a></li>
+  <li><a href="https://github.com/JSDID/Fanatic">Fanatic</a></li>
 </ul>
 
