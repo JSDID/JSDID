@@ -1,5 +1,7 @@
 # <h2>Practical skills</h2>
+
 <p>Here this technology stack</p>
+
 ![html5](./img/html.svg) &nbsp;
 ![css](./img/css.svg) &nbsp;
 ![Botstrap](./img/bootstrap.svg) &nbsp;
