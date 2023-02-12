@@ -1,3 +1,5 @@
+Front-end development
+
 # <h1>Practical skills</h1>
 ![html5](./img/html.svg) &nbsp;
 ![css](./img/css.svg) &nbsp;
