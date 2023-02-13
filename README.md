@@ -1,6 +1,6 @@
 # <h1>About me</h1>
 
-<p>I am a freelance developer in Front-end.</p>
+<p>I'm a freelance developer in Front-end.</p>
 
 # <h2>My skills</h2>
 
