@@ -31,9 +31,10 @@
 </ul>
 
 # <h2>Contacts</h2>
+<p>My networks profiles</P>
 <ul>
-  <li><a href="https://www.linkedin.com/in/icegouse/">https://www.linkedin.com/in/icegouse/</a></li>
   <li><a href="https://www.facebook.com/icegouse">https://www.facebook.com/icegouse</a></li>
+  <li><a href="https://www.linkedin.com/in/icegouse/">https://www.linkedin.com/in/icegouse/</a></li>
   <li><a href="https://www.instagram.com/icegouse/">https://www.instagram.com/icegouse/</a></li>
   <li><a href="https://wa.me/qr/IYFBQPZKIU5WO1">https://wa.me/qr/IYFBQPZKIU5WO1</a></li>
   <li><a href="https://t.me/icegouse">https://t.me/icegouse</a></li>
