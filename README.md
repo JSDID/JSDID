@@ -23,6 +23,8 @@
 # <h2>My works</h2>
 <p>Here are links to my work</p>
 <ul>
+  <li><a href="https://angularhero.com/">AngularHero</a></li>
+  <li><a href="https://kamil-abzalov.com/">Kamil Abzalov</a></li>
   <li><a href="https://github.com/JSDID/RunSmart">RunSmart</a></li>
   <li><a href="https://github.com/JSDID/Necklace">Necklace</a></li>
 </ul>
