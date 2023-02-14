@@ -1,4 +1,4 @@
-![image](https://shikakuhiroba.net/wp-content/uploads/2019/10/pc.20191017.jpeg)
+![image](https://www.leanyou.pl/wp-content/uploads/2020/08/MTM-Methods-Time-Measurement-1024x390.jpg)
 
 # <h1>About me</h1>
 
