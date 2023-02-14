@@ -25,4 +25,5 @@
 <ul>
   <li><a href="https://github.com/JSDID/RunSmart">RunSmart</a></li>
   <li><a href="https://github.com/JSDID/Desir/tree/developer">Desir</a></li>
+  <li><a href="https://github.com/JSDID/Necklace">Necklace</a></li>
 </ul>
