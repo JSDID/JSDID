@@ -2,6 +2,8 @@
 
 <p>I'm a Freelance developer in Front-end</p>
 
+![image](https://i.pinimg.com/originals/e9/b9/03/e9b9035b2b0572bb677b275895356665.jpg)
+
 # <h2>My skills</h2>
 
 <p>Here this technology stack</p>
