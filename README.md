@@ -1,8 +1,8 @@
+![image](https://media.licdn.com/dms/image/C5616AQETKS6FBuet1A/profile-displaybackgroundimage-shrink_350_1400/0/1662006116428?e=1681948800&v=beta&t=T89HhCCh-pKL8auKerkp2QCUPCFoSZNJ01dpo0YWdt0)
+
 # <h1>About me</h1>
 
 <p>I'm a Freelance developer in Front-end</p>
-
-![image](https://i.pinimg.com/originals/e9/b9/03/e9b9035b2b0572bb677b275895356665.jpg)
 
 # <h2>My skills</h2>
 
