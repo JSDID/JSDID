@@ -29,3 +29,9 @@
   <li><a href="https://github.com/JSDID/RunSmart">RunSmart</a></li>
   <li><a href="https://github.com/JSDID/Necklace">Necklace</a></li>
 </ul>
+
+# <h2>Contacts</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/icegouse/">https://www.linkedin.com/in/icegouse/</a></li>
+  <li><a href="https://t.me/icegouse">https://t.me/icegouse</a></li>
+</ul>
