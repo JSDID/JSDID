@@ -1,6 +1,6 @@
 ![image](https://www.leanyou.pl/wp-content/uploads/2020/08/MTM-Methods-Time-Measurement-1024x390.jpg)
 
-# <h1>About me</h1>
+# <h2>About me</h2>
 
 <p>I'm a Freelance developer in Front-end</p>
 
