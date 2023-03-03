@@ -27,7 +27,7 @@
   <li><a href="https://kamil-abzalov.com/">Kamil Abzalov</a></li>
   <li><a href="https://garalliance.ru/">Garalliance</a></li>
   <li><a href="https://github.com/JSDID/RunSmart">RunSmart</a></li>
-  <li><a href="https://github.com/JSDID/Necklace">Necklace</a></li>
+  <li><a href="https://github.com/JSDID/ClockFace">ClockFace</a></li>
 </ul>
 
 # <h2>Contacts</h2>
