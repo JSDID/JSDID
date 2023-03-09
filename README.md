@@ -20,8 +20,8 @@
 ![NodeJS](./img/nodejs.svg) &nbsp;
 -->
 
-<h2>Kit</h2>
-<p>Here my is user interface (UI)</p>
+<h2>UI Kit</h2>
+<p>Here my collections is user interface</p>
 <ul>
   <li><a href="https://codepen.io/icegouse/collections/">CodeEpan</a></li>
 </ul>
