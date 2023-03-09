@@ -23,7 +23,7 @@
 <h2>UI Kit</h2>
 <p>Here my collections is user interface</p>
 <ul>
-  <li><a href="https://codepen.io/icegouse/collections/">CodeEpan</a></li>
+  <li><a href="https://codepen.io/collection/QWmVZM">codepen.io</a></li>
 </ul>
 <h2>My works</h2>
 <p>Here are links to my work</p>
