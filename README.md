@@ -25,7 +25,7 @@
 <ul>
   <li><a href="https://codepen.io/collection/QWmVZM">codepen.io</a></li>
 </ul>
-<h2>My works</h2>
+<h2>Works</h2>
 <p>Here are links to my work</p>
 <ul>
   <li><a href="https://kamil-abzalov.com/">Kamil Abzalov</a></li>
