@@ -20,11 +20,6 @@
 ![NodeJS](./img/nodejs.svg) &nbsp;
 -->
 
-<h2>UI Kit</h2>
-<p>Here my collections is user interface</p>
-<ul>
-  <li><a href="https://codepen.io/collection/QWmVZM">codepen.io</a></li>
-</ul>
 <h2>Works</h2>
 <p>Here are links to my work</p>
 <ul>
@@ -32,6 +27,12 @@
   <li><a href="https://garalliance.ru/">Garalliance</a></li>
   <li><a href="https://github.com/JSDID/RunSmart">RunSmart</a></li>
   <li><a href="https://github.com/JSDID/ClockFace">ClockFace</a></li>
+</ul>
+
+<h2>UI Kit</h2>
+<p>Here my collections is user interface</p>
+<ul>
+  <li><a href="https://codepen.io/collection/QWmVZM">codepen.io</a></li>
 </ul>
 
 # <h2>Contacts</h2>
