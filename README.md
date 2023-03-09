@@ -36,7 +36,7 @@
 </ul>
 
 # <h2>Contacts</h2>
-<p>My networks profiles</P>
+<p>My profiles</P>
 <ul>
   <li><a href="https://www.facebook.com/icegouse">https://www.facebook.com/icegouse</a></li>
   <li><a href="https://www.instagram.com/icegouse/">https://www.instagram.com/icegouse/</a></li>
