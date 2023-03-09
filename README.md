@@ -4,7 +4,7 @@
 
 <p>I'm a Freelance developer in Front-end</p>
 
-# <h2>My skills</h2>
+# <h2>Skills</h2>
 
 <p>Here this technology stack</p>
 
