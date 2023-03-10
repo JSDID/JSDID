@@ -35,10 +35,4 @@
   <li><a href="https://codepen.io/JSDID">codepen.io</a></li>
 </ul>
 
-# <h2>Contacts</h2>
-<p>My profiles</P>
-<ul>
-  <li><a href="https://www.facebook.com/icegouse">https://www.facebook.com/icegouse</a></li>
-  <li><a href="https://www.instagram.com/icegouse/">https://www.instagram.com/icegouse/</a></li>
-  <li><a href="https://wa.me/qr/IYFBQPZKIU5WO1">https://wa.me/qr/IYFBQPZKIU5WO1</a></li>
-</ul>
+
