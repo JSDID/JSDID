@@ -2,7 +2,7 @@
 
 # <h2>About me</h2>
 
-<p>I'm a Freelance developer in Front-end</p>
+<p>I'm a Front-End Developer located in Kiev. My main experience is in front-end development. I've products for companies and businesses around the globe ranging from marketing websites to complex solutions and enterprise apps with focus on fast, elegant and accessible user experiences.</p>
 
 # <h2>Skills</h2>
 
