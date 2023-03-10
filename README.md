@@ -41,5 +41,4 @@
   <li><a href="https://www.facebook.com/icegouse">https://www.facebook.com/icegouse</a></li>
   <li><a href="https://www.instagram.com/icegouse/">https://www.instagram.com/icegouse/</a></li>
   <li><a href="https://wa.me/qr/IYFBQPZKIU5WO1">https://wa.me/qr/IYFBQPZKIU5WO1</a></li>
-  <li><a href="https://t.me/icegouse">https://t.me/icegouse</a></li>
 </ul>
