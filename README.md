@@ -32,7 +32,7 @@
 <h2>UI Kit</h2>
 <p>Here my collections is user interface</p>
 <ul>
-  <li><a href="https://codepen.io/collection/QWmVZM">codepen.io</a></li>
+  <li><a href="https://codepen.io/JSDID">codepen.io</a></li>
 </ul>
 
 # <h2>Contacts</h2>
