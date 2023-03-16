@@ -21,18 +21,15 @@
 -->
 
 <h2>Works</h2>
-<p>Here are links to my work</p>
+<p>Links to my work</p>
 <ul>
+  <li><a href="https://codepen.io/JSDID">UI KIT</a></li>
   <li><a href="https://kamil-abzalov.com/">Kamil Abzalov</a></li>
   <li><a href="https://garalliance.ru/">Garalliance</a></li>
   <li><a href="https://github.com/JSDID/ClockFace">ClockFace</a></li>
   <li><a href="https://github.com/JSDID/RunSmart">RunSmart</a></li>
 </ul>
 
-<h2>UI Kit</h2>
-<p>Here my collections is user interface</p>
-<ul>
-  <li><a href="https://codepen.io/JSDID">codepen.io</a></li>
-</ul>
+\
 
 
