@@ -6,8 +6,6 @@
 
 # <h2>My skills</h2>
 
-<p>Here this technology stack</p>
-
 ![html5](./img/html.svg) &nbsp;
 ![css](./img/css.svg) &nbsp;
 ![Botstrap](./img/bootstrap.svg) &nbsp;
@@ -20,8 +18,7 @@
 ![NodeJS](./img/nodejs.svg) &nbsp;
 -->
 
-<h2>Works</h2>
-<p>Links to my work</p>
+<h2>My works</h2>
 <ul>
   <li><a href="https://codepen.io/JSDID">UI KIT</a></li>
   <li><a href="https://kamil-abzalov.com/">Kamil Abzalov</a></li>
