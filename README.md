@@ -2,7 +2,7 @@
 
 # <h2>About me</h2>
 
-<p>I am a FrontEnd developer who works with the internal parts of the site: I write code in various languages responsible for smooth operation.</p>
+<p>I'm a FrontEnd developer who works with the internal parts of the site: I write code in various languages responsible for smooth operation.</p>
 
 # <h2>My skills</h2>
 
