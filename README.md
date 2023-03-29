@@ -18,14 +18,6 @@
 ![NodeJS](./img/nodejs.svg) &nbsp;
 -->
 
-<h2>My works</h2>
-<ul>
-  <li><a href="https://codepen.io/JSDID">UI KIT</a></li>
-  <li><a href="https://kamil-abzalov.com/">Kamil Abzalov</a></li>
-  <li><a href="https://garalliance.ru/">Garalliance</a></li>
-  <li><a href="https://github.com/JSDID/ClockFace">ClockFace</a></li>
-  <li><a href="https://github.com/JSDID/RunSmart">RunSmart</a></li>
-</ul>
 
 
 
