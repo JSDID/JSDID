@@ -2,7 +2,7 @@
 
 # <h2>About me</h2>
 
-<p>I'm a FrontEnd developer who works with the internal parts of the site: I write code in various languages responsible for smooth operation.</p>
+<p>A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product.</p>
 
 # <h2>My skills</h2>
 
