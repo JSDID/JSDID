@@ -11,12 +11,10 @@
 ![Botstrap](./img/bootstrap.svg) &nbsp;
 ![Sass](./img/sass.svg) &nbsp;
 ![JS](./img/js.svg) &nbsp;
-![Github](./img/github.svg) &nbsp;
-
-<!--
 ![ReactJS](./img/reactjs.svg) &nbsp;
 ![NodeJS](./img/nodejs.svg) &nbsp;
--->
+![Github](./img/github.svg) &nbsp;
+
 
 
 
