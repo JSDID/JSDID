@@ -2,7 +2,7 @@
 
 # <h2>About me</h2>
 
-<p>Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product.</p>
+<p>I am a Web Developer who creates the front end of websites and web applications that drives the success of the entire product.</p>
 
 # <h2>My skills</h2>
 
