@@ -2,7 +2,7 @@
 
 # <h2>About me</h2>
 
-<p>I am a web-developer who creates the front end of websites and web applications that drives the success of the entire product.</p>
+<p>I am a web-developer who creates the front end of websites and web applications that drives the success of the entire product</p>
 
 # <h2>My skills</h2>
 
