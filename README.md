@@ -11,15 +11,15 @@
 ![NodeJS](./img/nodejs.svg) &nbsp;
 ![Github](./img/github.svg) &nbsp;
 
-# Projects
-
-<ul>
-  <li><a href="https://gist.github.com/JSDID">Travel<a/></li>
-</ul>
-
 # Gists
 
 <ul>
   <li><a href="https://gist.github.com/JSDID/bb574225fc4e6fb4514581c5a642c977">UseReduce<a/></li>
+</ul>
+
+# Projects
+
+<ul>
+  <li><a href="https://gist.github.com/JSDID">Travel<a/></li>
 </ul>
 
