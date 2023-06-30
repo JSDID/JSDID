@@ -20,6 +20,6 @@
 # Projects
 
 <ul>
-  <li><a href="https://gist.github.com/JSDID">Travel<a/></li>
+  <li><a href="https://gist.github.com/JSDID/Travel">Travel<a/></li>
 </ul>
 
