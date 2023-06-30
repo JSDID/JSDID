@@ -17,7 +17,9 @@ I am a web-developer who creates the front end of websites and web applications 
 
 # My gists
 
-<a href="https://gist.github.com/JSDID">Code<a/>
+<ul>
+  <li><a href="https://gist.github.com/JSDID/bb574225fc4e6fb4514581c5a642c977">UseReduce<a/></li>
+</ul>
 
 # My projects
 
