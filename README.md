@@ -1,10 +1,10 @@
 ![image](https://www.leanyou.pl/wp-content/uploads/2020/08/MTM-Methods-Time-Measurement-1024x390.jpg)
 
-# <h2>About me</h2>
+# About me
 
-<p>I am a web-developer who creates the front end of websites and web applications that drives the success of the entire product</p>
+I am a web-developer who creates the front end of websites and web applications that drives the success of the entire product
 
-# <h2>My skills</h2>
+# My skills
 
 ![html5](./img/html.svg) &nbsp;
 ![css](./img/css.svg) &nbsp;
@@ -15,7 +15,15 @@
 ![NodeJS](./img/nodejs.svg) &nbsp;
 ![Github](./img/github.svg) &nbsp;
 
+# My gists
 
+<a href="https://gist.github.com/JSDID">Code<a/>
+
+# My projects
+
+<ul>
+  <li><a href="[https://gist.github.com/JSDID](https://github.com/JSDID/Travel)">Travel<a/></li>
+</ul>
 
 
 
