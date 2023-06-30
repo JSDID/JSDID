@@ -22,7 +22,7 @@ I am a web-developer who creates the front end of websites and web applications 
 # My projects
 
 <ul>
-  <li><a href="[https://gist.github.com/JSDID](https://github.com/JSDID/Travel)">Travel<a/></li>
+  <li><a href="https://gist.github.com/JSDID">Travel<a/></li>
 </ul>
 
 
