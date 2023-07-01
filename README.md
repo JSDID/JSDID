@@ -13,10 +13,7 @@
 
 # Gists
 
-<ul>
-  <li><a href="https://gist.github.com/JSDID/bb574225fc4e6fb4514581c5a642c977">Using multiple states in React<a/></li>
-  <li><a href="https://gist.github.com/JSDID/c168e4525d3e8bf9f8baf5fd41b7b0ea">Modal window in React<a/></li>
-</ul>
+https://gist.github.com/JSDID
 
 
 
