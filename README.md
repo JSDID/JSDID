@@ -11,7 +11,7 @@
 ![NodeJS](./img/nodejs.svg) &nbsp;
 ![Github](./img/github.svg) &nbsp;
 
-# Gists
+# My gists
 
 https://gist.github.com/JSDID
 
