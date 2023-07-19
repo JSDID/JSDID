@@ -13,12 +13,5 @@ Front-end development
 ![NodeJS](./img/nodejs.svg) &nbsp;
 ![Github](./img/github.svg) &nbsp;
 
-# My projects
-
-https://github.com/JSDID?tab=stars
-
-# My gists
-
-https://gist.github.com/JSDID
 
 
