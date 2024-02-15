@@ -1,7 +1,5 @@
 ![image](https://www.leanyou.pl/wp-content/uploads/2020/08/MTM-Methods-Time-Measurement-1024x390.jpg)
 
-Front-end development
-
 # My skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
