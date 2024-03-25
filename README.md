@@ -1,6 +1,6 @@
 ![image](https://www.leanyou.pl/wp-content/uploads/2020/08/MTM-Methods-Time-Measurement-1024x390.jpg)
 
-# My skills
+<h1>Tech Stack</h1>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
